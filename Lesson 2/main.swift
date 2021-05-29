@@ -42,5 +42,4 @@ print(Array3)
 
 var filter = Array3.filter {$0 % 2 != 0 && $0 % 3 == 0}
    print(filter)
-//5.
-//6.
+
